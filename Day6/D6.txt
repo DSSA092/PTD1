@@ -1,0 +1,21 @@
+There are 4 different types of function arguments:
+
+Default Argument
+Keyword Arguments
+Positional Arguments
+Arbitrary Arguments
+
+Tail Recursion: function call always happen at the bottom
+
+
+Head  Recursion: function call always occurs on the top
+
+Tree Recursion:
+
+Matrix [i][j]
+
+matrix[i-1][j]-up
+matrix[i+1][j]-down
+matrix[i][j-1]-left
+matrix[i][j+1]-right
+
